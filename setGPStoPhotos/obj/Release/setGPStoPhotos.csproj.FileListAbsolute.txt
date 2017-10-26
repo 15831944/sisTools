@@ -1,0 +1,8 @@
+D:\MyCode\sisTools\setGPStoPhotos\bin\Release\setGPStoPhotos.exe.config
+D:\MyCode\sisTools\setGPStoPhotos\bin\Release\setGPStoPhotos.exe
+D:\MyCode\sisTools\setGPStoPhotos\bin\Release\setGPStoPhotos.pdb
+D:\MyCode\sisTools\setGPStoPhotos\obj\Release\setGPStoPhotos.Form1.resources
+D:\MyCode\sisTools\setGPStoPhotos\obj\Release\setGPStoPhotos.Properties.Resources.resources
+D:\MyCode\sisTools\setGPStoPhotos\obj\Release\setGPStoPhotos.csproj.GenerateResource.Cache
+D:\MyCode\sisTools\setGPStoPhotos\obj\Release\setGPStoPhotos.exe
+D:\MyCode\sisTools\setGPStoPhotos\obj\Release\setGPStoPhotos.pdb
